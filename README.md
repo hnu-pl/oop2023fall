@@ -4,15 +4,16 @@ Object-Oriented Programming course @ HNU CE undergrad
 
 2023년 2학기 한남대학교 컴퓨터공학과 객체지향프로그래밍 과목 홈페이지입니다.
 
-
 ## Textbooks and References
 
-## Textbooks
+### Textbooks
 * [코틀린 객체지향 프로그래밍, 2023, 에이콘 출판](http://acornpub.co.kr/book/kotlin-oop)
   (원서: [Hands-On Object-Oriented Programming with Kotlin, 2018, Packt Publishing](https://www.oreilly.com/library/view/hands-on-object-oriented-programming/9781789617726/))
 * [forax/java-guide](https://github.com/forax/java-guide) 프랑스 파리의 구스타프 에펠 대학 교수님이 집필중인 원고/강의노트
 
-Kotlin
+### References
+* [JDK 15 documentation](https://docs.oracle.com/en/java/javase/15/)
+* (Kotlin documentation)[https://kotlinlang.org/docs/]
 
 ## Programming languages and related tools for course activities
 * [Java](https://www.oracle.com/kr/java/)
