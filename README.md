@@ -15,6 +15,9 @@ Object-Oriented Programming course @ HNU CE undergrad
 * [JDK 15 documentation](https://docs.oracle.com/en/java/javase/15/)
 * (Kotlin documentation)[https://kotlinlang.org/docs/]
 
+## Syllabus
+TODO
+
 ## Programming languages and related tools for course activities
 * [Java](https://www.oracle.com/kr/java/)
   with [Jupyter notebook](https://jupyter.org/)
