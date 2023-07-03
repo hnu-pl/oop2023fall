@@ -8,7 +8,8 @@ Object-Oriented Programming course @ HNU CE undergrad
 ## Textbooks and References
 
 ## Textbooks
-* [http://acornpub.co.kr/book/kotlin-oop](코틀린 객체지향 프로그래밍, 에이콘
+* [코틀린 객체지향 프로그래밍, 2023, 에이콘 출판](http://acornpub.co.kr/book/kotlin-oop)
+  (원서: (Hands-On Object-Oriented Programming with Kotlin, 2018, Packt Publishing)[https://www.oreilly.com/library/view/hands-on-object-oriented-programming/9781789617726/])
 * [forax/java-guide](https://github.com/forax/java-guide) 프랑스 파리의 구스타프 에펠 대학 교수님이 집필중인 원고/강의노트
 
 Kotlin
