@@ -40,4 +40,4 @@ TODO
 * [객체지향 디자인패턴 1](https://youtu.be/lJES5TQTTWE) -- *얄팍한 코딩사전* on YouTube
 * [객체지향 디자인패턴 2](https://youtu.be/q3_WXP9pPUQ) -- *얄팍한 코딩사전* on YouTube
 * [Why Isn't Functional Programming the Norm? – Richard Feldman](https://youtu.be/QyJZzq0v7Z4) -- Elm 언어 핵심 개발자인 Richard Feldman의 Clojoure 2019 컨퍼런스 강연. 제목에서 주는 인상과는 달리 함수형 프로그래밍보다 OOP, OOPL 관련 내용에 대한 이야기가 더 많다.
-* [Why Static Typing Came Back • Richard Feldman](https://youtu.be/Tml94je2edk) -- Elm 언어 핵심 개발자인 Richard Feldman의 GOTO 2022 컨퍼런스 강연. 한때 동적 타입 언어가 주목받은 이유와 현재 새로 만들어지는 언어들은 왜 그렇지 않은가에 대한 이야기.
+* [Why Static Typing Came Back • Richard Feldman](https://youtu.be/Tml94je2edk) -- Elm 언어 핵심 개발자인 Richard Feldman의 GOTO 2022 컨퍼런스 강연. 한때 업계에서 정적 타입 언어가 아닌 동적 타입 언어가 주목받은 이유와, 최근 새로 만들어지는 언어들은 왜 그렇지 않은가에 대한 이야기.
