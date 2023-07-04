@@ -22,6 +22,9 @@ TODO
 * [Java](https://www.oracle.com/kr/java/)
   with [Jupyter notebook](https://jupyter.org/)
   using the [forax/java-guide](https://github.com/forax/java-guide) Docker image
+  running [IJava](https://github.com/SpencerPark/IJava) kernel
+  based on [JShell](https://docs.oracle.com/javase/9/jshell/introduction-jshell.htm)
+
 * [Kotlin](https://kotlinlang.org/)
   with [JetBrains Datalore](https://datalore.jetbrains.com/)
 
