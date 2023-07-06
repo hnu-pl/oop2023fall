@@ -26,7 +26,11 @@ TODO
   based on [JShell](https://docs.oracle.com/javase/9/jshell/introduction-jshell.htm)
 
 * [Kotlin](https://kotlinlang.org/)
-  with [JetBrains Datalore](https://datalore.jetbrains.com/)
+  either with [Jupyter notebook](https://jupyter.org/)
+  using [Kotin notebook](https://github.com/knonm/kotlin-notebook)
+  running [Kotlin kernel](https://github.com/Kotlin/kotlin-jupyter),
+  or with [JetBrains Datalore](https://datalore.jetbrains.com/)
+
 
 ## Links
 
