@@ -30,8 +30,6 @@ TODO
   using [Kotin notebook](https://github.com/knonm/kotlin-notebook)
   running [Kotlin kernel](https://github.com/Kotlin/kotlin-jupyter),
   or with [JetBrains Datalore](https://datalore.jetbrains.com/)
-  - https://blog.jetbrains.com/ko/kotlin/2023/07/introducing-kotlin-notebook/
-    이게 새로 나왔으니 아마도 이걸로 해야 될 거 같다!!!
 
 ## Links
 
