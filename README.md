@@ -16,7 +16,23 @@ Object-Oriented Programming course @ HNU CE undergrad
 * [Kotlin documentation](https://kotlinlang.org/docs/)
 
 ## Syllabus
-TODO
+| 주차 | 강의                                           | 실습                                           |
+| -- | -------------------------------------------- | -------------------------------------------- |
+| 1  | 수업 소개                                        | 개발환경 설치/활용 방법 익히기                            |
+| 2  | forax/java-guide:<br>chap. 00,01,02,03,04    | 코틀린OOP: 1장(Part A)                           |
+| 3  | forax/java-guide:<br>chap. 05,07,08,09,30,10 | 코틀린OOP: 1장(Part B)                           |
+| 4  | forax/java-guide:<br>chap. 11,12,14          | 코틀린OOP: 1장(Part C)                           |
+| 5  | forax/java-guide:<br>chap. 15,21             | forax/java-guide:<br>chap. 20,22,23 (강의로 진행) |
+| 6  | 중간 및 채점확인                                    | 중간 및 채점확인                                    |
+| 7  | 코틀린OOP: 2장(Part A, B)                        | 코틀린 기초 관련 실습                                 |
+| 8  | 코틀린OOP: 3장(Part A, B, C)                     | 제네릭 관련 실습                                    |
+| 9  | 코틀린OOP: 4장(Part A, B)                        | sealed class, object 관련 실습                   |
+| 10 | 코틀린OOP: 5장(Part A, B)                        | 코틀린OOP: 5장(Part C) 실습!!                      |
+| 11 | 코틀린OOP: 6장                                   | 람다식, 고차함수 관련 실습                              |
+| 12 | 코틀린OOP: 6장, 7장                               | delegation 관련 실습                             |
+| 13 | 코틀린OOP: 7장                                   | coroutine 관련 실습                              |
+| 14 | 기말 및 채점확인                                    | 기말 및 채점확인                                    |
+| 15 | (buffer)                                     | (buffer)                                     |
 
 ## Programming languages and related tools for course activities
 * [Java](https://www.oracle.com/kr/java/)
