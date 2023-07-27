@@ -1,6 +1,4 @@
-# OOP course @ HNU CE undergrad
-
-Object-Oriented Programming course @ HNU CE undergrad
+# Object-Oriented Programming course @ HNU CE undergrad
 
 2023년 2학기 한남대학교 컴퓨터공학과 객체지향프로그래밍 과목 홈페이지입니다.
 
@@ -19,15 +17,15 @@ Object-Oriented Programming course @ HNU CE undergrad
 | 주차 | 강의                                           | 실습                                           |
 | -- | -------------------------------------------- | -------------------------------------------- |
 | 1  | 수업 소개                                        | 개발환경 설치/활용 방법 익히기                            |
-| 2  | forax/java-guide:<br>chap. 00,01,02,03,04    | 코틀린OOP: 1장(Part A)                           |
-| 3  | forax/java-guide:<br>chap. 05,07,08,09,30,10 | 코틀린OOP: 1장(Part B)                           |
-| 4  | forax/java-guide:<br>chap. 11,12,14          | 코틀린OOP: 1장(Part C)                           |
+| 2  | forax/java-guide:<br>chap. 00,01,02,03,04    | 코틀린OOP: 1장(Part A)<br>활동: 실행만 하면 미션 완료    |
+| 3  | forax/java-guide:<br>chap. 05,07,08,09,30,10 | 코틀린OOP: 1장(Part B)<br>활동: 3D 실수 벡터를 Triple로 표현하고 두 벡터의 내적과 외적 계산해 보기 |
+| 4  | forax/java-guide:<br>chap. 11,12,14          | 코틀린OOP: 1장(Part C)<br>활동: dayStr을 받아 자신의 객체지향 수업/실습이 있는 날인지 판별하는 함수 작성 |
 | 5  | forax/java-guide:<br>chap. 15,21             | forax/java-guide:<br>chap. 20,22,23 (강의로 진행) |
 | 6  | 중간 및 채점확인                                    | 중간 및 채점확인                                    |
-| 7  | 코틀린OOP: 2장(Part A, B)                        | 코틀린 기초 관련 실습                                 |
-| 8  | 코틀린OOP: 3장(Part A, B, C)                     | 제네릭 관련 실습                                    |
+| 7  | 코틀린OOP: 2장(Part A, B)                        | Java 계산기 과제 안내<br>활동: enum에 functional interface를 적용하고 추상 메소드를 추가한 후 각 enum 객체에서 적절히 override [참고자료](https://velog.io/@kkywalk2/JAVA%EC%9D%98-Lambda%ED%95%A8%EC%88%98) |
+| 8  | 코틀린OOP: 3장(Part A, B, C)                     | Kotlin 계산기 과제 안내<br>활동: enum class에 연산자 함수 invoke를 추가하고 각 enum 객체에서 적절히 override [참고자료](https://velog.io/@ohzzi/Kotlin-operator-fun-invoke) |
 | 9  | 코틀린OOP: 4장(Part A, B)                        | sealed class, object 관련 실습                   |
-| 10 | 코틀린OOP: 5장(Part A, B)                        | 코틀린OOP: 5장(Part C) 실습!!                      |
+| 10 | 코틀린OOP: 5장(Part A, B)                        | 코틀린OOP: 5장(Part C) 실습<br>활동:                      |
 | 11 | 코틀린OOP: 6장                                   | 람다식, 고차함수 관련 실습                              |
 | 12 | 코틀린OOP: 6장, 7장                               | delegation 관련 실습                             |
 | 13 | 코틀린OOP: 7장                                   | coroutine 관련 실습                              |
