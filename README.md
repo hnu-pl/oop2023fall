@@ -18,20 +18,20 @@ abcdef
 | 주차 | 강의                                         | 실습                                                      |
 | ---- | -------------------------------------------- | --------------------------------------------------------- |
 | 1    | 수업 소개                                    | 개발환경 설치/활용 방법 익히기                            |
-| 2    | forax/java-guide:<br>chap. 00,01,02,03,04    | 코틀린OOP: 1장(Part A)<br>활동01: 실행만 하면 미션 완료 (3점)  |
-| 3    | forax/java-guide:<br>chap. 05,07,08,09,30,10 | 코틀린OOP: 1장(Part B)<br>활동02: 3D 실수 벡터를 Triple로 표현해 두 벡터의 내적과 외적 계산 (3점) |
-| 4    | forax/java-guide:<br>chap. 11,12,14          | 코틀린OOP: 1장(Part C)<br>활동03: dayStr을 받아 객체지향 수업/실습이 있는 날인지 판별하는 함수 작성 (3점) |
+| 2    | forax/java-guide:<br>chap. 00,01,02,03,04    | 코틀린OOP: 1장(Part A)<br>활동00: 실행만 하면 미션 완료 (3점)  |
+| 3    | forax/java-guide:<br>chap. 05,07,08,09,30,10 | 코틀린OOP: 1장(Part B)<br>활동01: 3D 실수 벡터를 Triple로 표현해 두 벡터의 내적과 외적 계산 (3점) |
+| 4    | forax/java-guide:<br>chap. 11,12,14          | 코틀린OOP: 1장(Part C)<br>활동02: dayStr을 받아 객체지향 수업/실습이 있는 날인지 판별하는 함수 작성 (3점) |
 | 5    | forax/java-guide:<br>chap. 15,21             | forax/java-guide:<br>chap. 20,22,23 (강의로 진행)         |
 | 6    | 중간 및 채점확인                             | 중간 및 채점확인                                          |
-| 7    | 코틀린OOP: 2장(Part A, B)                    | Java 계산기 과제 안내<br>활동04: 컴파일만 되도록 작성 (3점) |
-| 8    | 코틀린OOP: 3장(Part A, B, C)                 | Kotlin 계산기 과제 안내<br>활동05: enum class에 추상 연산자 함수 invoke를 추가하고 각 enum 객체에서 적절히 override [참고자료](https://velog.io/@ohzzi/Kotlin-operator-fun-invoke) (3점) |
-| 9    | 코틀린OOP: 4장(Part A, B)                    | sealed class, object 관련 실습<br>활동06: 이진트리 같은 걸 하면 될 듯 (3점) |
-| 10   | 코틀린OOP: 5장(Part A, B)                    | 코틀린OOP: 5장(Part C) 실습<br>활동07: 주어진 자연수 이하로 서로 소인 피타고라스 triple의 리스트를 계산하는 함수를 반복문이 아닌 filter, map 등의 고차함수를 활용해 함수 몸체를 식의 형태로 작성 (3점) |
-| 11   | 코틀린OOP: 6장                               | 기말과제 Playing Cards 소개<br>활동08: CardItem을 코틀린의 delegation을 활용해 선언하도록 코드 수정해 보기 (새로운 인터페이스 추가 필요) (3점) |
-| 12   | 코틀린OOP: 6장, 7장                          | 대략 기말과제 관련 내용으로 자유형식                      |
-| 13   | 코틀린OOP: 7장                               | 대략 기말과제 관련 내용으로 자유형식                      |
-| 14   | 코틀린OOP: 11장                              | 기말 및 채점확인                                          |
-| 15   | (buffer)                                     | (buffer)                                                  |
+| 7    | 코틀린OOP: 2장(Part A, B)                    | Java 계산기 과제 안내<br>활동03: 컴파일만 되도록 작성 (3점) |
+| 8    | 코틀린OOP: 3장(Part A, B, C)                 | Kotlin 계산기 과제 안내<br>활동04: enum class에 추상 연산자 함수 invoke를 추가하고 각 enum 객체에서 적절히 override [참고자료](https://velog.io/@ohzzi/Kotlin-operator-fun-invoke) (3점) |
+| 9    | 코틀린OOP: 4장(Part A, B)                    | 계산기 과제 해설                                           |
+| 10   | 코틀린OOP: 5장(Part A, B)                    | 코틀린OOP: 5장(Part C) 실습<br>활동05: 주어진 자연수 이하로 서로 소인 피타고라스 triple의 리스트를 계산하는 함수를 반복문이 아닌 filter, map 등의 고차함수를 활용해 함수 몸체를 식의 형태로 작성 (3점) |
+| 11   | 코틀린OOP: 6장                               | 기말과제 Playing Cards 소개<br>활동06: CardItem을 코틀린의 delegation을 활용해 선언하도록 코드 수정해 보기 (새로운 인터페이스 추가 필요) (3점) |
+| 12   | 코틀린OOP: 6장, 7장                          | 기말과제 관련 활동07: ComputerPlayer 작성 (3점)           |
+| 13   | 코틀린OOP: 7장                               | 기말과제 관련 활동08: HumanPlayer 작성 (3점)              |
+| 14   | 코틀린OOP: 11장                              | 기말과제 관련 자유 활동                                   |
+| 15   | 기말과제 해설                                | 기말채점 및 성적합산 확인                                 |
 
 ## Programming languages and related tools for course activities
 * [Java](https://www.oracle.com/kr/java/)
