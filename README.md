@@ -3,8 +3,7 @@
 2023년 2학기 한남대학교 컴퓨터공학과 객체지향프로그래밍 과목 홈페이지입니다.
 
 ## Textbooks and References
-abcdef
-안기영
+
 ### Textbooks
 * [코틀린 객체지향 프로그래밍, 2023, 에이콘 출판](http://acornpub.co.kr/book/kotlin-oop)
   (원서: [Hands-On Object-Oriented Programming with Kotlin, 2018, Packt Publishing](https://www.oreilly.com/library/view/hands-on-object-oriented-programming/9781789617726/))
