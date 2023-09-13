@@ -63,18 +63,19 @@
 * [Why Static Typing Came Back • Richard Feldman](https://youtu.be/Tml94je2edk) -- Elm 언어 핵심 개발자인 Richard Feldman의 GOTO 2022 컨퍼런스 강연. 한때 업계에서 정적 타입 언어가 아닌 동적 타입 언어가 주목받은 이유와, 최근 새로 만들어지는 언어들은 왜 그렇지 않은가에 대한 이야기.
 
 
-## WSL install
+## Installation tips
 
+### WSL install
 사용하는 컴퓨터의 하드웨어 설정이 가상화를 지원하며 제대로 활성화된 상태로 설정되어 있다고 가정하면 다음과 같이 설치하면 됨
 (대부분 BIOS에서 기본적으로 가상화를 돌릴 수 있는 설정이 활성화되어 있을테지지만 다른 사람들처럼 설치해도 이상하게 뭔가 안된다면 혹시 BIOS에서 설정이 막혀있는지 확인할 필요는 있다.)
 
-### 설치방법1
+#### WSL 설치방법1
 1. "**제어판 > 프로그램 및 기능 > 윈도우즈 기능 켜기 끄기**"에서 다음을 활성화한 뒤 재부팅
    - 리눅스용 윈도우즈 하위 시스템
    - 가상 머신 플랫폼
 2. 혹시 모르니 "**설정**"에서 윈도우즈 업데이트도 해주기
 3. Microsoft Store를 실행해서 Linux를 검색해 원하는 리눅스 배포판 설치
 
-### 설치방법2
+#### WSL 설치방법2
 간단히 명령어 하나로 (WSL이 전혀 설치되지 않은 경우에만 가능) 
 - https://learn.microsoft.com/ko-kr/windows/wsl/install
