@@ -76,5 +76,5 @@
 3. Microsoft Store를 실행해서 Linux를 검색해 원하는 리눅스 배포판 설치
 
 ### 설치방법2
-간단히 명령어 하나로
+간단히 명령어 하나로 (WSL이 전혀 설치되지 않은 경우에만 가능) 
 - https://learn.microsoft.com/ko-kr/windows/wsl/install
