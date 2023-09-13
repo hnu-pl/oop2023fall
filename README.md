@@ -61,3 +61,20 @@
 * [객체지향 디자인패턴 2](https://youtu.be/q3_WXP9pPUQ) -- *얄팍한 코딩사전* on YouTube
 * [Why Isn't Functional Programming the Norm? – Richard Feldman](https://youtu.be/QyJZzq0v7Z4) -- Elm 언어 핵심 개발자인 Richard Feldman의 Clojoure 2019 컨퍼런스 강연. 제목에서 주는 인상과는 달리 함수형 프로그래밍보다 OOP, OOPL 관련 내용에 대한 이야기가 더 많다.
 * [Why Static Typing Came Back • Richard Feldman](https://youtu.be/Tml94je2edk) -- Elm 언어 핵심 개발자인 Richard Feldman의 GOTO 2022 컨퍼런스 강연. 한때 업계에서 정적 타입 언어가 아닌 동적 타입 언어가 주목받은 이유와, 최근 새로 만들어지는 언어들은 왜 그렇지 않은가에 대한 이야기.
+
+
+## WSL install
+
+하드웨어 설정이 제대로 되어 있다고 가정하면 다음과 같이 설치하면 됨
+(대부분 바이오스에서 기본적으로 가상화를 돌릴 수 있는 설정이 되어 있지만 혹시 그게 막혀서 나왔는지 확인할 필요는 있다.)
+
+### 설치방법1
+1. "제어판 > 프로그램 및 기능 > 윈도우즈 기능 켜기 끄기"에서 다음을 활성화한 뒤 재부팅
+   - 리눅스용 윈도우즈 하위 시스템
+   - 가상 머신 플랫폼
+2. 혹시 모르니 "설정"에서 윈도우즈 업데이트도 해주기
+3. Microsoft Store를 실행해서 Linux를 검색해 원하는 리눅스 배포판 설치
+
+### 설치방법2
+간단히 명령어 하나로
+- https://learn.microsoft.com/ko-kr/windows/wsl/install
