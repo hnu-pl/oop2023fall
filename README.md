@@ -62,7 +62,7 @@
 * [Why Isn't Functional Programming the Norm? – Richard Feldman](https://youtu.be/QyJZzq0v7Z4) -- Elm 언어 핵심 개발자인 Richard Feldman의 Clojoure 2019 컨퍼런스 강연. 제목에서 주는 인상과는 달리 함수형 프로그래밍보다 OOP, OOPL 관련 내용에 대한 이야기가 더 많다.
 * [Why Static Typing Came Back • Richard Feldman](https://youtu.be/Tml94je2edk) -- Elm 언어 핵심 개발자인 Richard Feldman의 GOTO 2022 컨퍼런스 강연. 한때 업계에서 정적 타입 언어가 아닌 동적 타입 언어가 주목받은 이유와, 최근 새로 만들어지는 언어들은 왜 그렇지 않은가에 대한 이야기.
 
-
+----
 ## Installation tips
 
 ### WSL install
@@ -79,3 +79,24 @@
 #### WSL 설치방법2
 간단히 명령어 하나로 (WSL이 전혀 설치되지 않은 경우에만 가능) 
 - https://learn.microsoft.com/ko-kr/windows/wsl/install
+
+
+### Docker install
+윈도우즈 사용자를 기준으로 설명 (맥이나 리눅스를 이미 돌리고 있는 사용자들인 이거 설명이 필요없을 거라 대부분)
+
+#### 도커 설치방법1
+GUI를 제공하는 **Docker Desktop for Windows** 설치해서 WSL에 설치된 리눅스와 연동
+- https://docs.docker.com/desktop/install/windows-install/
+
+설치할 때부터 Enable WSL 2 integration을 체크하면 좋고
+
+설치 후 Settings에서 WSL integration관련 설정이 제대로 되었나 확인! (혹시 설치할 때 체크를 안했더라도 아마 여기서 설정 가능할 것임)
+
+설치는 편하지만 굳이 사용하지 않는 기능까지 설치하는 느낌이랄까,
+시작프로그램에 넣어놓으면 컴퓨터 부팅할 때마다 도커 패널이 뜨고 해서 부담스러울 수 있는 것이 단점
+(물론 이것도 시작 프로그램에 들어가지 않게 설정을 끌 수는 있음)
+
+#### 도커 설치방법2
+WSL2에서 돌리는 리눅스 안에서 리눅스 패키지로 설치하는 게 그냥 도커 이미지를 돌려보는 정도라면 오히려 더 가볍다
+- https://netmarble.engineering/docker-on-wsl2-without-docker-desktop/
+위 자료를 참고할 것
