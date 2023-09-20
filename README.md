@@ -80,6 +80,8 @@
 간단히 명령어 하나로 (WSL이 전혀 설치되지 않은 경우에만 가능) 
 - https://learn.microsoft.com/ko-kr/windows/wsl/install
 
+#### WSL 설치 후에 업데이트
+명령창에서 `wsl --update` 실행
 
 ### Docker install
 윈도우즈 사용자를 기준으로 설명 (맥이나 리눅스를 이미 돌리고 있는 사용자들인 이거 설명이 필요없을 거라 대부분)
