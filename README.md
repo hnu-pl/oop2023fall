@@ -75,6 +75,7 @@
    - 가상 머신 플랫폼
 1. 명령창에서 `wsl --update` 실행
    - 혹시 모르니 "**설정**"에서 윈도우즈 업데이트도 해주기
+1. 명령창에서 `wsl --set-default-version 2` 명령어로 WSL 버전 2로 설정
 1. Microsoft Store를 실행해서 Linux를 검색해 원하는 리눅스 배포판 설치
 
 #### WSL 설치방법2
